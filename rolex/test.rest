@@ -1,0 +1,8 @@
+GET  http://localhost:3007/dashboard
+
+Content-Type: application/json
+
+{
+  
+  "userId":1
+}
